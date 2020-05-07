@@ -2,16 +2,16 @@ import Vue from "vue"  //引入vue对象
 import Router from "vue-router"  //引入路由
 import Home from "../components/Home.vue"
 // 引入Login.vue子组件
-import Login from "../components/gucci/Login.vue"
+import Login from "../components/mgg/Login.vue"
 // 引入Login.vue子组件
-import Product from "../components/gucci/Product.vue"
+import Product from "../components/mgg/Product.vue"
 // 引入chat.vue子组件
-import Chat from "../components/gucci/Chat.vue";
-import Index from "../components/gucci/Index.vue";
-import Cart from "../components/gucci/Cart.vue";
-import Search from "../components/gucci/Search.vue";
-import List from "../components/gucci/List.vue";
-import Method from "../components/gucci/Method.vue"
+import Chat from "../components/mgg/Chat.vue";
+import Index from "../components/mgg/Index.vue";
+import Cart from "../components/mgg/Cart.vue";
+import Search from "../components/mgg/Search.vue";
+import List from "../components/mgg/List.vue";
+import Method from "../components/mgg/Method.vue"
 
 Vue.use(Router)   //注册路由
 

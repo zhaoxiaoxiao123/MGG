@@ -69,11 +69,11 @@
 
 <script>
 // 引入子组件
-import Product from '../components/gucci/Product';
-import Chat from '../components/gucci/Chat';
-import Login from '../components/gucci/Login';
-import Index from "../components/gucci/Index";
-import Cart from "../components/gucci/Cart";
+import Product from '../components/mgg/Product';
+import Chat from '../components/mgg/Chat';
+import Login from '../components/mgg/Login';
+import Index from "../components/mgg/Index";
+import Cart from "../components/mgg/Cart";
 export default {
   data(){
     return{
